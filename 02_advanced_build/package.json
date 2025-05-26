@@ -1,0 +1,16 @@
+{
+  "name": "02_advanced_build",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Leon Schönhoff <leon.schoenhoff@bbht.de>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
